@@ -51,7 +51,7 @@ public class SwagggerConfig {
 
 		return new ApiInfo("Hobby Project : Decorize Livspace",
 				"This project is developed using Spring Boot", "1.0", "Terms of Service",
-				new Contact("Lidvitha Reddy", "https://spring.io/projects/spring-boot", "lidvitha29@gmail.com"),
+				new Contact("Decorize Livspace", "http://127.0.0.1:5500/DIY%20Home%20Improvement/LandingPage.html", "lidvitha29@gmail.com"),
 				"License of APIS", "API license URL", Collections.emptyList());
 	};
 }
